@@ -395,4 +395,4 @@ async def admin(ctx, arg1: Option(str, required=True), *, arg2: Option(str, defa
             await ctx.response.send_message(f'Arg1 = "Get" or "Set"', ephemeral=True, delete_after=10)
 
 
-bot.run("MTE5ODk1ODA2MzIwNjUzOTI4NQ.G4DuUi.U9usc0-KG-p8R1roQ5GWR9ibWymqLl84DRWpu4")
+bot.run("Here token")
